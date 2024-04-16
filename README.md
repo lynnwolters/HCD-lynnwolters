@@ -36,8 +36,6 @@
 - Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
 - Emoijs
 
-### Manieren om dit te prototypen
-
 ### Eerste protoype
 
 ## Week 2
