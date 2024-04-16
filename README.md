@@ -87,6 +87,22 @@ Ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschij
   
 ### Eerste prototype
 
+- Geschreven zoals ze het uitspreken
+- Emoijs om emotie eraan te koppelen die hun op dat moment laten horen
+- 'Illustraties' om bepaalde geluiden of emoties te accentueren
+- Tekst bij de persoon die spreekt zodat ze weet wie het zegt
+
+#### Scene 1
+![17](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/6fd27745-4a0d-476d-8bce-ba85febb028d)
+![16](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/6d98c5c9-92b2-4f36-bd87-50717b8203be)
+![15](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/d91acd13-af5c-4728-968e-2512f7e6f5bb)
+
+#### Scene 2
+
+![13](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/29db83cf-b36c-4671-aca6-eb0377c51c3a)
+![12](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/364065f5-f3f9-4f02-8083-60acd5f021d2)
+![14](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/35beacb3-82a0-4a68-b017-562f83edbd9c)
+
 ## Week 2
 
 ### Tweede gesprek met Marie aantekeningen 
