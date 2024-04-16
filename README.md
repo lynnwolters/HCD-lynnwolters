@@ -48,7 +48,7 @@ Allereerst hebben we met het groepje vragen bedacht om aan Marie te stellen:
 
 Om erachter te komen hoe Marie tv ervaart heb ik een paar scenes van haar favoriete programma's met geluid, normale ondertiteling / zonder geluid en closed captions / zonder geluid bekeken. 
 
-#### Bij een scene uit de Queer Eye waren dit mijn bevindingen (https://www.youtube.com/watch?v=W5u1NkxUIYo):
+#### Bij een scene uit Queer Eye waren dit mijn bevindingen (https://www.youtube.com/watch?v=W5u1NkxUIYo):
 - De intonaties van de personen zoals schreeuwen of zelfs gillen komen niet naar voren
 - Het door elkaar heen praten is niet duidelijk
 - Je weet niet goed wanneer iemand iets blij, enthiousiast, neutraal of verdrietig zegt
@@ -67,18 +67,25 @@ Ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschij
 
 ### Vragen aan Marie
 
-- Vind je het niet lastg om de ondertiteling en het beeld bij te houden? Het gaat zo snel soms...
+- Vind je het niet lastig om de ondertiteling en het beeld bij te houden? Het gaat zo snel soms...
 
 ### Ideeën
 
+#### Queer Eye
 - Overlay op video waarbij je ziet waar geluid vandaan komt en wat voor soort geluid het is
 - Stijl van ondertiteling wordt aangepast
 - Uitgebreidere closed captions inclusief toon en sfeer van gesprek
 - Welke emotie mensen op dat moment voelen
 - Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
-- Emoijs
+- Lettertype van zin veranderd qua grootte als iemand hard of zacht praat
+- Emoijs 
+- Kleine illustraties bij geluidseffecten
 
-### Eerste protoype
+#### The Bear
+- Welke emotie mensen op dat moment voelen
+- Uitgebreidere closed captions inclusief toon en sfeer van gesprek
+  
+### Eerste prototype
 
 ## Week 2
 
