@@ -49,7 +49,10 @@ Allereerst hebben we met het groepje vragen bedacht om aan Marie te stellen:
 Om erachter te komen hoe Marie tv ervaart heb ik een paar scenes van haar favoriete programma's met geluid, normale ondertiteling / zonder geluid en closed captions / zonder geluid bekeken. 
 
 #### Bij een scene uit de Queer Eye waren dit mijn bevindingen (https://www.youtube.com/watch?v=W5u1NkxUIYo):
-- 
+- De intonaties van de personen zoals schreeuwen of zelfs gillen komen niet naar voren
+- Het door elkaar heen praten is niet duidelijk
+- Je weet niet goed wanneer iemand iets blij, enthiousiast, neutraal of verdrietig zegt
+- De chaos van alle geluiden door elkaar is er niet
 
 #### Bij een scene uit The Bear waren dit mijn bevindingen (https://www.youtube.com/watch?v=7Yx-xpqf-x8):
 
@@ -60,7 +63,7 @@ Om erachter te komen hoe Marie tv ervaart heb ik een paar scenes van haar favori
 
 #### Bevindingen
 
-Door deze scenes te testen kan ik mij veel meer inleven in iemand die doof is, en ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschijnlijk niet mist, vind ik het toch wel heel verdrietig dat ze vaak maar de helft van een tv of serie meekrijgt. Ik merk toch echt dat de muziek zo ontzettend veel met gevoel doet. 
+Ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschijnlijk niet mist, vind ik het toch wel heel verdrietig dat ze vaak maar de helft van een tv of serie meekrijgt. Ik merk echt dat de muziek zo ontzettend veel met gevoel doet. Bij de Queer Eye is muziek minder belangrijk maar dan mis je vooral de sfeer (geluid en spraak) dat voor een grotendeel het programma maakt. Ik wil graag proberen om bij een van deze video's de elementen die de scene grotendeels maken meer naar voren te laten komen.
 
 ### Vragen aan Marie
 
