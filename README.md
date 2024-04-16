@@ -36,6 +36,19 @@
 - Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
 - Emoijs
 
+### Manieren om dit te prototypen
+
 ### Eerste protoype
 
+## Week 2
+
 ### Eerste prototype feedback
+Hier was ik helaas ziek.
+
+## Week 3
+
+### Eerste prototype feedback
+
+### Tweede prototype met verwerkte feedback
+
+
