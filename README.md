@@ -35,3 +35,7 @@
 - Welke emotie mensen op dat moment voelen
 - Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
 - Emoijs
+
+### Eerste protoype
+
+### Eerste prototype feedback
