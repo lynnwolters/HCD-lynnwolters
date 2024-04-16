@@ -101,7 +101,7 @@ Ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschij
 
 ![13](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/29db83cf-b36c-4671-aca6-eb0377c51c3a)
 ![12](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/364065f5-f3f9-4f02-8083-60acd5f021d2)
-![14](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/35beacb3-82a0-4a68-b017-562f83edbd9c)
+![14](https://github.com/lynnwolters/HCD-lynnwolters/assets/47858242/e2cdc683-515d-493e-9202-64b2149ec7df)
 
 ## Week 2
 
