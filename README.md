@@ -17,3 +17,21 @@
 - Begrafenis muziek waardoor iedereen op hetzelfde moment moest huilen maar ze wist niet wat er aan de hand was, ze zag toen wel hoe belangrijk muziek kan zijn
 - Toen ze jong was probeerde ze nog wel muziek te beleven door te kijken naar de sfeer, de artiesten, de mensen op een festival, veel naar lowlands geweest, nu doet ze dat niet meer voor zoveel geld omdat ze niet dezelfde ervaring krijg als mensen die wel horen
 - Kijk zo goed mogelijk naar hoe je sfeer kan overbrengen of bijvoorbeeld te stijl van sprekers 
+
+### Belangrijkste dingen die ik hieruit haal
+
+- Ze kan niet iets anders doen tijdens het kijken van een film, serie, programma of podcast, zet het ook stop als ze bijvoorbeeld moet appen
+- Kijkt graag naar spannende tv of chaotische programma’s
+- Close captions zijn er niet altijd en niet zo uitgebreid
+- Heeft vaak niet door wat de toon van de persoon die praat is of hoe de sfeer qua gesprek is
+- Heeft moeite met emoties aan muziek te koppelen
+- Mist veel details als ze tv kijkt zoals een deur die open gaat of dat er iemand buiten beeld loopt
+
+### Ideeën
+
+- Overlay op stukje film waarbij je ziet wanneer geluid ergens vandaan komt en wat voor soort geluid het is
+- Stijl van ondertiteling wordt aangepast
+- Uitgebreidere closecaptions inclusief toon en sfeer van gesprek
+- Welke emotie mensen op dat moment voelen
+- Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
+- Emoijs
