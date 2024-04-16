@@ -1,6 +1,23 @@
 # HCD-lynnwolters
 
+Welkom bij mijn readme van het vak Human Centred Design. In deze readme zal ik elke week mijn proces beschrijven zodat je op deze manier kunt zien hoe het product tot stand is gekomen.
+
 ## Week 1
+
+### Vragen bedenken
+
+Allereerst hebben we met het groepje vragen bedacht om aan Marie te stellen:
+
+- Ben je doof geboren of doof geworden?
+- Waar komt je passie voor podcasts of films vandaan?
+- Wat voor podcasts en films kijk je?
+- Wat gebruik je nu wanneer je een podcast of film kijkt / Hoe en waar kijk je films of podcasts?
+- Wat vind je daar fijn aan werken?
+- Wat vind je van de huidige closed caption en wat mis je?
+- Wat is je favoriete film, waarom en hoe kan deze nog beter worden?
+- Wat mis je het meest in de ervaring als je naar een film of podcast kijkt?
+- Zouden trillingen kunnen helpen met het begrijpen van de muziek?
+- Begrijp je de huidige muziek/effecten die worden omschreven in de ondertiteling zoals [spannende muziek] of [er wordt geklopt]?
 
 ### Eerste gesprek met Marie aantekeningen
 
@@ -27,11 +44,33 @@
 - Heeft moeite met emoties aan muziek te koppelen
 - Mist veel details als ze tv kijkt zoals een deur die open gaat of dat er iemand buiten beeld loopt
 
+### Testen
+
+Om erachter te komen hoe Marie tv ervaart heb ik een paar scenes van haar favoriete programma's met geluid, normale ondertiteling / zonder geluid en closed captions / zonder geluid bekeken. 
+
+#### Bij een scene uit de Queer Eye waren dit mijn bevindingen (https://www.youtube.com/watch?v=W5u1NkxUIYo):
+- 
+
+#### Bij een scene uit The Bear waren dit mijn bevindingen (https://www.youtube.com/watch?v=7Yx-xpqf-x8):
+
+- Er zit een prachtig nummer in die de hele scene eigenlijk maakt en waardoor je als kijker nog meer kippenvel krijgt, het zorgt voor opbouw en euforie
+- De blijheid / remoerigheid van de mensen tijdens het uitpakken van het geld komt niet goed naar voren in zowel de ondertiteling als hun gezichten, ook hier mis je dan het euforische gevoel wat tijdens de scene wordt neergezet
+- De stilte die valt als iemand binnen komt lopen is niet helemaal duidelijk, het wordt namelijk echt helemaal stil ineens, de muziek schakelt uit en de blijheid / remoerigheid van de mensen ook, hierdoor mis je de zwaarte die de persoon / scene met zich meebrengt
+- De laatste scene wordt extra euforisch door het refrein dat inkickt van het nummer
+
+#### Bevindingen
+
+Door deze scenes te testen kan ik mij veel meer inleven in iemand die doof is, en ook al weet ik dat Marie nooit geluid heeft kunnen horen en dat ze het waarschijnlijk niet mist, vind ik het toch wel heel verdrietig dat ze vaak maar de helft van een tv of serie meekrijgt. Ik merk toch echt dat de muziek zo ontzettend veel met gevoel doet. 
+
+### Vragen aan Marie
+
+- Vind je het niet lastg om de ondertiteling en het beeld bij te houden? Het gaat zo snel soms...
+
 ### Ideeën
 
-- Overlay op stukje film waarbij je ziet wanneer geluid ergens vandaan komt en wat voor soort geluid het is
+- Overlay op video waarbij je ziet waar geluid vandaan komt en wat voor soort geluid het is
 - Stijl van ondertiteling wordt aangepast
-- Uitgebreidere closecaptions inclusief toon en sfeer van gesprek
+- Uitgebreidere closed captions inclusief toon en sfeer van gesprek
 - Welke emotie mensen op dat moment voelen
 - Schrijven zoals ze het uitspreken (hi > haiiiiii, hoge stem)
 - Emoijs
@@ -40,13 +79,9 @@
 
 ## Week 2
 
-### Eerste prototype feedback
-Hier was ik helaas ziek.
+### Tweede gesprek met Marie aantekeningen 
+Ik was helaas afwezig bij dit gesprek omdat ik ziek was.
 
 ## Week 3
-
-### Eerste prototype feedback
-
-### Tweede prototype met verwerkte feedback
 
 ## Bronnenlijst
