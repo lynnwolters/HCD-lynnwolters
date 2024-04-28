@@ -1,6 +1,6 @@
-# HCD-lynnwolters
+# UCD-lynnwolters
 
-Welkom bij mijn readme van het vak Human Centred Design. In deze readme zal ik elke week mijn proces beschrijven zodat je op deze manier kunt zien hoe het product tot stand is gekomen.
+Welkom bij mijn readme van het vak User Centred Design. In deze readme zal ik elke week mijn proces beschrijven zodat je op deze manier kunt zien hoe het product tot stand is gekomen.
 
 ## Week 1
 
